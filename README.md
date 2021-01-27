@@ -42,9 +42,12 @@ You can:
 * Get book info within the database by title
 * Get member info within the database by Student ID
 * Let a  member borrow a book (with a maximum of 3 books per member)
-* Return specific book that a member has borrowed
 
 <img src="nbibliothek%20images/inserting_data.gif" height="400">
+
+* Return specific book that a member has borrowed
+
+<img src="nbibliothek%20images/returning_books.gif" height="400">
 
 
 
