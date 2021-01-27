@@ -44,7 +44,7 @@ You can:
 * Let a  member borrow a book (with a maximum of 3 books per member)
 * Return specific book that a member has borrowed
 
-<img src="nbibliothek%20images/inserting_data.JPG" height="400">
+<img src="nbibliothek%20images/inserting_data.gif" height="400">
 
 
 
